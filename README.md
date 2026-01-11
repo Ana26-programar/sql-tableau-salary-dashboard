@@ -49,7 +49,7 @@ The Tableau dashboard allows interactive exploration of:
 - **Salary by Country**  
 - **Top Earners Ranking by Experience Level**  
 
-![Dashboard Screenshot](salaries_dashboard.png)
+![Dashboard Screenshot]( image/salaries_dashboard.png)
 
 ---
 
